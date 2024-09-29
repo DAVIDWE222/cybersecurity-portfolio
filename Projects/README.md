@@ -1,0 +1,8 @@
+[Copy of Controls and compliance checklist-3.pdf](https://github.com/user-attachments/files/17180693/Copy.of.Controls.and.compliance.checklist-3.pdf)
+[Incident report analysis exemplar.pdf](https://github.com/user-attachments/files/17180692/Incident.report.analysis.exemplar.pdf)
+[File permissions in Linux exemplar.pdf](https://github.com/user-attachments/files/17180691/File.permissions.in.Linux.exemplar.pdf)
+[Apply filters to SQL queries exemplar.pdf](https://github.com/user-attachments/files/17180690/Apply.filters.to.SQL.queries.exemplar.pdf)
+[Vulnerability assessment report exemplar.pdf](https://github.com/user-attachments/files/17180689/Vulnerability.assessment.report.exemplar.pdf)
+[Incident handler's journal entry exemplar.pdf](https://github.com/user-attachments/files/17180688/Incident.handler.s.journal.entry.exemplar.pdf)
+[Completed incident handler's journal exemplar .pdf](https://github.com/user-attachments/files/17180687/Completed.incident.handler.s.journal.exemplar.pdf)
+[Python-algorithm.pdf](https://github.com/user-attachments/files/17180686/Python-algorithm.pdf)
